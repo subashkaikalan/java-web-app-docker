@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To greens Technologies, chennai, perumbakkam, Inida ,Tamilnadu.</h2>
-			<h3>Contact @ +91-998******,+91-9980923216</h3>
+			<h3>Contact @ +91-998******,+91-99********</h3>
 		</div>	
 	</div>
 
